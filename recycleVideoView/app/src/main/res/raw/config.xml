@@ -1,0 +1,44 @@
+<items>
+    <item>
+        <header>Header 0</header>
+        <gif url="http://yt-dash-mse-test.commondatastorage.googleapis.com/media/oops-20120802-85.mp4"/>
+        <footer>Footer 0</footer>
+    </item>
+
+    <item>
+        <header>Header 1</header>
+        <gif url="http://dev.exiv2.org/attachments/346/05112011034.mp4"/>
+        <footer>Footer 1</footer>
+    </item>
+
+    <item>
+        <header>Header 2</header>
+        <gif url="http://dev.exiv2.org/attachments/372/3D_L0064.MP4"/>
+        <footer>Footer 2</footer>
+    </item>
+
+    <item>
+        <header>Header 3</header>
+        <gif url="http://www.sample-videos.com/video/mp4/240/big_buck_bunny_240p_1mb.mp4"/>
+        <footer>Footer 3</footer>
+    </item>
+
+    <item>
+        <header>Header 4</header>
+        <gif url="http://techslides.com/demos/sample-videos/small.mp4"/>
+        <footer>Footer 4</footer>
+    </item>
+
+    <item>
+        <header>Header 5</header>
+        <gif url="http://yt-dash-mse-test.commondatastorage.googleapis.com/media/car-20120827-85.mp4"/>
+        <footer>Footer 5</footer>
+    </item>
+
+    <item>
+        <header>Header 6</header>
+        <gif url="http://locallylost.com/stargazer/files/2013/11/buck-short.mp4"/>
+        <footer>Footer 6</footer>
+    </item>
+
+</items>
